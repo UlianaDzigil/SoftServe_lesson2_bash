@@ -1,0 +1,1 @@
+# SoftServe_lesson2_bash
